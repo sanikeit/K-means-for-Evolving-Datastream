@@ -1,11 +1,12 @@
 # K-means for Evolving Datastream
 
 ![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)
-Authors
-Aniket Sethi - 190001003
-Yash Suvarna - 190001068
-Garvit Galgat - 190001016
-Introduction
+
+##Authors
+- **Aniket Sethi - 190001003
+- **Yash Suvarna - 190001068
+- **Garvit Galgat - 190001016
+##Introduction
 The analysis of streaming data has gained significant importance in recent years, posing unique challenges for clustering techniques due to the dynamic and evolving nature of data streams. Our project focuses on addressing the challenges posed by evolving data streams through the development of a K-means algorithm specifically tailored for handling concept drift in streaming data.
 
 Objective
