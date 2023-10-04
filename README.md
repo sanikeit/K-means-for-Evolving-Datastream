@@ -18,13 +18,3 @@ Our main objective is to create an efficient K-means algorithm capable of cluste
 - Adaptive Clustering: The algorithm adapts to changes in the data distribution by incorporating a restart mechanism whenever a concept drift is detected, ensuring accurate clustering over time.
 
 - Approximation Technique: We employ an approximation approach using a surrogate error function that captures the relevant information for clustering quality without explicit concept drift detection.
-
-
-## Contributing
-
-Contributions are welcome! Feel free to open a pull request if you find any issues or have improvements to suggest.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
---
